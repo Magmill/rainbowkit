@@ -35,6 +35,7 @@ import { ledgerWallet } from './ledgerWallet/ledgerWallet';
 import { magicEdenWallet } from './magicEdenWallet/magicEdenWallet';
 import { metaMaskWallet } from './metaMaskWallet/metaMaskWallet';
 import { mewWallet } from './mewWallet/mewWallet';
+import { mecoWallet } from './mecoWallet/mecoWallet';
 import { nestWallet } from './nestWallet/nestWallet';
 import { novaWallet } from './novaWallet/novaWallet';
 import { oktoWallet } from './oktoWallet/oktoWallet';
@@ -70,7 +71,6 @@ import { xPortalWallet } from './xPortalWallet/xPortalWallet';
 import { zealWallet } from './zealWallet/zealWallet';
 import { zerionWallet } from './zerionWallet/zerionWallet';
 import { zilPayWallet } from './ZilPayWallet/zilPayWallet';
-import { mecoWallet } from './mecoWallet/mecoWallet';
 
 export {
   argentWallet,
@@ -111,6 +111,7 @@ export {
   magicEdenWallet,
   metaMaskWallet,
   mewWallet,
+  mecoWallet,
   nestWallet,
   novaWallet,
   oktoWallet,
@@ -146,5 +147,4 @@ export {
   zealWallet,
   zerionWallet,
   zilPayWallet,
-  mecoWallet,
 };
